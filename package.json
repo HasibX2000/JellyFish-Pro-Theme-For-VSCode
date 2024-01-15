@@ -1,0 +1,34 @@
+{
+  "name": "jellyfish-pro",
+  "displayName": "JellyFish Pro",
+  "description": "Colorful Theme For VSCode",
+  "publisher": "HasibX2000",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "author": {
+    "name": "Akon M Hasib"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Dark Theme",
+    "JellyFish",
+    "JellyFish Pro",
+    "JellyFish Pro Theme",
+    "JellyFish Theme",
+    "JellyFish Theme"
+  ],
+  "icon": "images/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "JellyFish Pro By Akon M Hasib",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JellyFishPro.json"
+      }
+    ]
+  }
+}
