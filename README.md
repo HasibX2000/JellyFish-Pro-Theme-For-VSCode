@@ -1,6 +1,4 @@
-# jellyfish-pro README
-
-## Working with Markdown
+# JellyFish Pro Theme For VSCode
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
@@ -14,5 +12,3 @@ You can author your README using Visual Studio Code. Here are some useful editor
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
-
-# JellyFish-Pro-Theme-For-VSCode
